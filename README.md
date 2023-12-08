@@ -1,4 +1,4 @@
-#Project Introduction
+# Project Introduction
 
 This project aims to develop a habitat suitability model for Sorghastrum nutans, a grass species native to North America. Considering the changing climate and its impact on grassland ecosystems, this model seeks to understand and predict the shifting range of this species. Utilizing data layers related to soil, topography, and climate, the model provides insights for grassland management and restoration practices under changing environmental conditions.
 
