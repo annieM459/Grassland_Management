@@ -8,7 +8,7 @@ Prerequisites
 Python 3.x
 Required Python libraries: [list all required libraries, e.g., numpy, pandas, matplotlib, rioxarray, xarray-spatial, etc.]
 
-#Data Sources
+# Data Sources
 
 USFS National Grassland Units
 POLARIS Soil Data
